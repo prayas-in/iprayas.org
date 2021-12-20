@@ -13,7 +13,8 @@
         };
     </script>
 
-    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700%7CMontserrat:400,700%7CRaleway:300,400,600" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700%7CMontserrat:400,700%7CRaleway:300,400,600"
+        rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="libs/rs-plugin/css/settings.css" media="screen">
@@ -27,7 +28,8 @@
                     <div class="row">
                         <div class="col-sm-7 hidden-xs">
                             <p class="text-2 mb10 color-inherit">
-                                <span class="mr30"><i class="icon icon_pin_alt"></i> Salua (PS) Paschim Medinipur (Dist.) West Bengal - 721145</span>
+                                <span class="mr30"><i class="icon icon_pin_alt"></i> Salua (PS) Paschim Medinipur
+                                    (Dist.) West Bengal - 721145</span>
                             </p>
                         </div>
                         <div class="col-sm-5">
@@ -67,8 +69,38 @@
                                             <li>
                                                 <a href="page_about_modern.php">About Us</a>
                                             </li>
+
                                             <li>
-                                                <a href="page_services_classic.php">Projects</a>
+                                                <a href="#">
+                                                    Programs
+                                                </a>
+                                                <ul class="submenu">
+                                                    <li>
+                                                        <a href="page_services_classic.php">
+                                                            Business Development
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="page_services_classic.php">
+                                                            Global Warming
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="page_services_classic.php">
+                                                            Earn a Smile
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="page_services_classic.php">
+                                                            Live Project
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="page_services_classic.php">
+                                                            Internships
+                                                        </a>
+                                                    </li>
+                                                </ul>
                                             </li>
 
                                             <li>
@@ -81,13 +113,16 @@
                                                 <a href="#">Team</a>
                                                 <ul class="submenu">
                                                     <li>
-                                                        <a href="page_team_2021-22.php">2021-22 <i class="icon icon-direction icon_plus"></i></a>
+                                                        <a href="page_team_2021-22.php">2021-22 <i
+                                                                class="icon icon-direction icon_plus"></i></a>
                                                     </li>
                                                     <li>
-                                                        <a href="page_team_2020-21.php">2020-21 <i class="icon icon-direction icon_plus"></i></a>
+                                                        <a href="page_team_2020-21.php">2020-21 <i
+                                                                class="icon icon-direction icon_plus"></i></a>
                                                     </li>
                                                     <li>
-                                                        <a href="page_team_2019-20.php">2019-20 <i class="icon icon-direction icon_plus"></i></a>
+                                                        <a href="page_team_2019-20.php">2019-20 <i
+                                                                class="icon icon-direction icon_plus"></i></a>
                                                     </li>
                                                 </ul>
                                             </li>
@@ -106,7 +141,8 @@
                                                         <div class="col-12">
                                                             <form action="#" class="menu-search">
                                                                 <input type="text" placeholder="type and hit enter">
-                                                                <button type="submit"><i class="icon icon_search"></i></button>
+                                                                <button type="submit"><i
+                                                                        class="icon icon_search"></i></button>
                                                             </form>
                                                         </div>
                                                     </div>
@@ -127,13 +163,20 @@
                     <div class="row">
                         <div class="col-sm-4 xs-box">
                             <h3 class="title-a color-inherit mb20">About us</h3>
-                            <p>PRAYAS aims to generate programs for youth to give back to the community using local resources. Our main objective is to improve the economic conditions of an area through generating employment and setting up businesses that give back their profits to the community.</p>
+                            <p>PRAYAS aims to generate programs for youth to give back to the community using local
+                                resources. Our main objective is to improve the economic conditions of an area through
+                                generating employment and setting up businesses that give back their profits to the
+                                community.</p>
                             <a href="page_about_modern.php" class="read-more">read more</a>
                         </div>
                         <div class="col-sm-4 xs-box">
                             <address class="contact-widget">
-                                <p><i class="icon icon_pin_alt"></i> Near Petrol Pump, Salua (PS) Paschim Medinipur (Dist.) West Bengal - 721145</p>
-                                <p><i class="icon icon_mail_alt"></i> <a href="https:///cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="d1beb7b7b8b2b491b0b3a4a2b8bfb4a2a2a5b9b4bcb4ffb2bebc"> prayas.iitkgp@gmail.com</a></p>
+                                <p><i class="icon icon_pin_alt"></i> Near Petrol Pump, Salua (PS) Paschim Medinipur
+                                    (Dist.) West Bengal - 721145</p>
+                                <p><i class="icon icon_mail_alt"></i> <a href="https:///cdn-cgi/l/email-protection"
+                                        class="__cf_email__"
+                                        data-cfemail="d1beb7b7b8b2b491b0b3a4a2b8bfb4a2a2a5b9b4bcb4ffb2bebc">
+                                        prayas.iitkgp@gmail.com</a></p>
                                 <p><i class="icon icon_phone"></i> +91 9002863514</p>
                             </address>
                         </div>
@@ -141,7 +184,8 @@
                             <div class="sidebar-tweet footer-tweet clearfix">
                                 <a href="#" class="tweet-user">@iPrayas</a>
                                 <small>22 hours ago</small>
-                                <p class="tweet-content">A service for the poor is a supreme virtue, and the great channel through which the mercy of God is passed on to mankind.</p>
+                                <p class="tweet-content">A service for the poor is a supreme virtue, and the great
+                                    channel through which the mercy of God is passed on to mankind.</p>
                                 <i class="icon social_twitter"></i>
                             </div>
                         </div>

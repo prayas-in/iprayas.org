@@ -3,10 +3,31 @@
         <div class="pull-center">
             <nav class="portfolio-filter pf2 br1">
                 <ul>
-                    <li><a href="#" data-filter="*" class="active"><i class="icon icon_menu"></i></a></li>
-                    <li><a href="#" data-filter=".a_">Executives</a></li>
-                    <li><a href="#" data-filter=".b_">Volunteers</a></li>
-                    <li><a href="#" data-filter=".c_">Advisors</a></li>
+                    <li>
+                        <a href="#" data-filter="*" class="active">
+                            <i class="icon icon_menu"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" data-filter=".a_">
+                            Governing Body
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" data-filter=".b_">
+                            SEMs
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" data-filter=".c_">
+                            JEMs
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" data-filter=".d_">
+                            Others
+                        </a>
+                    </li>
                 </ul>
             </nav>
         </div>
@@ -21,7 +42,8 @@
                     <div class="portfolio-el">
                         <div class="view">
                             <img src="images/demo/team1.jpg" alt="Team member">
-                            <a href="#modal-team-1" data-toggle="modal" title="Team member 1" class="mask"> <i class="icon icon_plus"></i> </a>
+                            <a href="#modal-team-1" data-toggle="modal" title="Team member 1" class="mask"> <i
+                                    class="icon icon_plus"></i> </a>
                         </div>
                         <div class="portfolio-text-content">
                             <h3 class="portfolio-text-title">Mrinal K Bhanja</h3>
@@ -29,11 +51,12 @@
                         </div>
                     </div>
                 </div>
-                <div class="grid-col a_ c_">
+                <div class="grid-col a_ c_ d_">
                     <div class="portfolio-el">
                         <div class="view">
                             <img src="images/demo/team2.jpg" alt="Team member">
-                            <a href="#modal-team-2" data-toggle="modal" title="Team member 2" class="mask"> <i class="icon icon_plus"></i> </a>
+                            <a href="#modal-team-2" data-toggle="modal" title="Team member 2" class="mask"> <i
+                                    class="icon icon_plus"></i> </a>
                         </div>
                         <div class="portfolio-text-content">
                             <h3 class="portfolio-text-title">DEVAKI NANDANA KALAM</h3>
@@ -45,7 +68,8 @@
                     <div class="portfolio-el">
                         <div class="view">
                             <img src="images/demo/team3.jpg" alt="Team member">
-                            <a href="#modal-team-3" data-toggle="modal" title="Team member 3" class="mask"> <i class="icon icon_plus"></i> </a>
+                            <a href="#modal-team-3" data-toggle="modal" title="Team member 3" class="mask"> <i
+                                    class="icon icon_plus"></i> </a>
                         </div>
                         <div class="portfolio-text-content">
                             <h3 class="portfolio-text-title">PRANEETH REDDY</h3>
@@ -57,7 +81,8 @@
                     <div class="portfolio-el">
                         <div class="view">
                             <img src="images/demo/team4.jpg" alt="Team member">
-                            <a href="#modal-team-4" data-toggle="modal" title="Team member 4" class="mask"> <i class="icon icon_plus"></i> </a>
+                            <a href="#modal-team-4" data-toggle="modal" title="Team member 4" class="mask"> <i
+                                    class="icon icon_plus"></i> </a>
                         </div>
                         <div class="portfolio-text-content">
                             <h3 class="portfolio-text-title">VAISHNAVI MANUSUNI</h3>
@@ -65,11 +90,12 @@
                         </div>
                     </div>
                 </div>
-                <div class="grid-col b_">
+                <div class="grid-col b_ d_">
                     <div class="portfolio-el">
                         <div class="view">
                             <img src="images/demo/team5.jpg" alt="Team member">
-                            <a href="#modal-team-5" data-toggle="modal" title="Team member 5" class="mask"> <i class="icon icon_plus"></i> </a>
+                            <a href="#modal-team-5" data-toggle="modal" title="Team member 5" class="mask"> <i
+                                    class="icon icon_plus"></i> </a>
                         </div>
                         <div class="portfolio-text-content">
                             <h3 class="portfolio-text-title">RAJAVARDHINI BETHALA</h3>
@@ -81,7 +107,8 @@
                     <div class="portfolio-el">
                         <div class="view">
                             <img src="images/demo/team6.jpg" alt="Team member">
-                            <a href="#modal-team-6" data-toggle="modal" title="Team member 6" class="mask"> <i class="icon icon_plus"></i> </a>
+                            <a href="#modal-team-6" data-toggle="modal" title="Team member 6" class="mask"> <i
+                                    class="icon icon_plus"></i> </a>
                         </div>
                         <div class="portfolio-text-content">
                             <h3 class="portfolio-text-title">SURYA MANIKANTA TANKALA</h3>
@@ -106,7 +133,9 @@
                         <h3 class="title-small br-left mb30"><span class="mr20">Mike Trout</span>
                             <small>Web Designer</small>
                         </h3>
-                        <p class="mb30">It will be as simple as Occidental; in fact, it will be Occidental. To an English person, it will seem like simplified English, as a skeptical Cambridge friend of mine told me what Occidental is.</p>
+                        <p class="mb30">It will be as simple as Occidental; in fact, it will be Occidental. To an
+                            English person, it will seem like simplified English, as a skeptical Cambridge friend of
+                            mine told me what Occidental is.</p>
                         <div class="clearfix">
                             <ul class="social-icon social-bg circle">
                                 <li><a href="#"><i class="icon social_twitter"></i></a></li>
@@ -119,7 +148,9 @@
                         <div class="mb10"></div>
                         <ul class="list-2 team-member-details">
                             <li><span>Website</span> <a href="#">http://johndoe.com</a></li>
-                            <li><span>Email</span> <a href="https:///cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="90fafff8fecff4fff5d0f3fffde0f1fee9bef3fffd">[email&#160;protected]</a></li>
+                            <li><span>Email</span> <a href="https:///cdn-cgi/l/email-protection" class="__cf_email__"
+                                    data-cfemail="90fafff8fecff4fff5d0f3fffde0f1fee9bef3fffd">[email&#160;protected]</a>
+                            </li>
                             <li><span>Phone</span> 0800 555 255</li>
                             <li><span>Main Skills</span> Web Design, Coding, Photoshop</li>
                         </ul>
@@ -143,7 +174,9 @@
                         <h3 class="title-small br-left mb30"><span class="mr20">Giancarlo Stanton</span>
                             <small>Web Designer</small>
                         </h3>
-                        <p class="mb30">It will be as simple as Occidental; in fact, it will be Occidental. To an English person, it will seem like simplified English, as a skeptical Cambridge friend of mine told me what Occidental is.</p>
+                        <p class="mb30">It will be as simple as Occidental; in fact, it will be Occidental. To an
+                            English person, it will seem like simplified English, as a skeptical Cambridge friend of
+                            mine told me what Occidental is.</p>
                         <div class="clearfix">
                             <ul class="social-icon social-bg circle">
                                 <li><a href="#"><i class="icon social_twitter"></i></a></li>
@@ -156,7 +189,9 @@
                         <div class="mb10"></div>
                         <ul class="list-2 team-member-details">
                             <li><span>Website</span> <a href="#">http://johndoe.com</a></li>
-                            <li><span>Email</span> <a href="https:///cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="bdd7d2d5d3e2d9d2d8fdded2d0cddcd3c493ded2d0">[email&#160;protected]</a></li>
+                            <li><span>Email</span> <a href="https:///cdn-cgi/l/email-protection" class="__cf_email__"
+                                    data-cfemail="bdd7d2d5d3e2d9d2d8fdded2d0cddcd3c493ded2d0">[email&#160;protected]</a>
+                            </li>
                             <li><span>Phone</span> 0800 555 255</li>
                             <li><span>Main Skills</span> Web Design, Coding, Photoshop</li>
                         </ul>
@@ -180,7 +215,9 @@
                         <h3 class="title-small br-left mb30"><span class="mr20">Paul Goldschimdt</span>
                             <small>Web Developer</small>
                         </h3>
-                        <p class="mb30">It will be as simple as Occidental; in fact, it will be Occidental. To an English person, it will seem like simplified English, as a skeptical Cambridge friend of mine told me what Occidental is.</p>
+                        <p class="mb30">It will be as simple as Occidental; in fact, it will be Occidental. To an
+                            English person, it will seem like simplified English, as a skeptical Cambridge friend of
+                            mine told me what Occidental is.</p>
                         <div class="clearfix">
                             <ul class="social-icon social-bg circle">
                                 <li><a href="#"><i class="icon social_twitter"></i></a></li>
@@ -193,7 +230,9 @@
                         <div class="mb10"></div>
                         <ul class="list-2 team-member-details">
                             <li><span>Website</span> <a href="#">http://johndoe.com</a></li>
-                            <li><span>Email</span> <a href="https:///cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="dcb6b3b4b283b8b3b99cbfb3b1acbdb2a5f2bfb3b1">[email&#160;protected]</a></li>
+                            <li><span>Email</span> <a href="https:///cdn-cgi/l/email-protection" class="__cf_email__"
+                                    data-cfemail="dcb6b3b4b283b8b3b99cbfb3b1acbdb2a5f2bfb3b1">[email&#160;protected]</a>
+                            </li>
                             <li><span>Phone</span> 0800 555 255</li>
                             <li><span>Main Skills</span> Web Design, Coding, Photoshop</li>
                         </ul>
@@ -217,7 +256,9 @@
                         <h3 class="title-small br-left mb30"><span class="mr20">Clayton Kershaw</span>
                             <small>C.E.O.</small>
                         </h3>
-                        <p class="mb30">It will be as simple as Occidental; in fact, it will be Occidental. To an English person, it will seem like simplified English, as a skeptical Cambridge friend of mine told me what Occidental is.</p>
+                        <p class="mb30">It will be as simple as Occidental; in fact, it will be Occidental. To an
+                            English person, it will seem like simplified English, as a skeptical Cambridge friend of
+                            mine told me what Occidental is.</p>
                         <div class="clearfix">
                             <ul class="social-icon social-bg circle">
                                 <li><a href="#"><i class="icon social_twitter"></i></a></li>
@@ -230,7 +271,9 @@
                         <div class="mb10"></div>
                         <ul class="list-2 team-member-details">
                             <li><span>Website</span> <a href="#">http://johndoe.com</a></li>
-                            <li><span>Email</span> <a href="https:///cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="305a5f585e6f545f5570535f5d40515e491e535f5d">[email&#160;protected]</a></li>
+                            <li><span>Email</span> <a href="https:///cdn-cgi/l/email-protection" class="__cf_email__"
+                                    data-cfemail="305a5f585e6f545f5570535f5d40515e491e535f5d">[email&#160;protected]</a>
+                            </li>
                             <li><span>Phone</span> 0800 555 255</li>
                             <li><span>Main Skills</span> Web Design, Coding, Photoshop</li>
                         </ul>
@@ -254,7 +297,9 @@
                         <h3 class="title-small br-left mb30"><span class="mr20">Miguel Cabrera</span>
                             <small>Software Engineer</small>
                         </h3>
-                        <p class="mb30">It will be as simple as Occidental; in fact, it will be Occidental. To an English person, it will seem like simplified English, as a skeptical Cambridge friend of mine told me what Occidental is.</p>
+                        <p class="mb30">It will be as simple as Occidental; in fact, it will be Occidental. To an
+                            English person, it will seem like simplified English, as a skeptical Cambridge friend of
+                            mine told me what Occidental is.</p>
                         <div class="clearfix">
                             <ul class="social-icon social-bg circle">
                                 <li><a href="#"><i class="icon social_twitter"></i></a></li>
@@ -267,7 +312,9 @@
                         <div class="mb10"></div>
                         <ul class="list-2 team-member-details">
                             <li><span>Website</span> <a href="#">http://johndoe.com</a></li>
-                            <li><span>Email</span> <a href="https:///cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="412b2e292f1e252e2401222e2c31202f386f222e2c">[email&#160;protected]</a></li>
+                            <li><span>Email</span> <a href="https:///cdn-cgi/l/email-protection" class="__cf_email__"
+                                    data-cfemail="412b2e292f1e252e2401222e2c31202f386f222e2c">[email&#160;protected]</a>
+                            </li>
                             <li><span>Phone</span> 0800 555 255</li>
                             <li><span>Main Skills</span> Web Design, Coding, Photoshop</li>
                         </ul>
@@ -291,7 +338,9 @@
                         <h3 class="title-small br-left mb30"><span class="mr20">Adam Jones</span>
                             <small>Hapiness Hero</small>
                         </h3>
-                        <p class="mb30">It will be as simple as Occidental; in fact, it will be Occidental. To an English person, it will seem like simplified English, as a skeptical Cambridge friend of mine told me what Occidental is.</p>
+                        <p class="mb30">It will be as simple as Occidental; in fact, it will be Occidental. To an
+                            English person, it will seem like simplified English, as a skeptical Cambridge friend of
+                            mine told me what Occidental is.</p>
                         <div class="clearfix">
                             <ul class="social-icon social-bg circle">
                                 <li><a href="#"><i class="icon social_twitter"></i></a></li>
@@ -304,7 +353,9 @@
                         <div class="mb10"></div>
                         <ul class="list-2 team-member-details">
                             <li><span>Website</span> <a href="#">http://johndoe.com</a></li>
-                            <li><span>Email</span> <a href="https:///cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6903060107360d060c290a060419080710470a0604">[email&#160;protected]</a></li>
+                            <li><span>Email</span> <a href="https:///cdn-cgi/l/email-protection" class="__cf_email__"
+                                    data-cfemail="6903060107360d060c290a060419080710470a0604">[email&#160;protected]</a>
+                            </li>
                             <li><span>Phone</span> 0800 555 255</li>
                             <li><span>Main Skills</span> Web Design, Coding, Photoshop</li>
                         </ul>
@@ -328,7 +379,9 @@
                         <h3 class="title-small br-left mb30"><span class="mr20">Anthony Rizzo</span>
                             <small>Web Developer</small>
                         </h3>
-                        <p class="mb30">It will be as simple as Occidental; in fact, it will be Occidental. To an English person, it will seem like simplified English, as a skeptical Cambridge friend of mine told me what Occidental is.</p>
+                        <p class="mb30">It will be as simple as Occidental; in fact, it will be Occidental. To an
+                            English person, it will seem like simplified English, as a skeptical Cambridge friend of
+                            mine told me what Occidental is.</p>
                         <div class="clearfix">
                             <ul class="social-icon social-bg circle">
                                 <li><a href="#"><i class="icon social_twitter"></i></a></li>
@@ -341,7 +394,9 @@
                         <div class="mb10"></div>
                         <ul class="list-2 team-member-details">
                             <li><span>Website</span> <a href="#">http://johndoe.com</a></li>
-                            <li><span>Email</span> <a href="https:///cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c8a2a7a0a697aca7ad88aba7a5b8a9a6b1e6aba7a5">[email&#160;protected]</a></li>
+                            <li><span>Email</span> <a href="https:///cdn-cgi/l/email-protection" class="__cf_email__"
+                                    data-cfemail="c8a2a7a0a697aca7ad88aba7a5b8a9a6b1e6aba7a5">[email&#160;protected]</a>
+                            </li>
                             <li><span>Phone</span> 0800 555 255</li>
                             <li><span>Main Skills</span> Web Design, Coding, Photoshop</li>
                         </ul>
@@ -365,7 +420,9 @@
                         <h3 class="title-small br-left mb30"><span class="mr20">Michael Brantley</span>
                             <small>Hapiness Hero</small>
                         </h3>
-                        <p class="mb30">It will be as simple as Occidental; in fact, it will be Occidental. To an English person, it will seem like simplified English, as a skeptical Cambridge friend of mine told me what Occidental is.</p>
+                        <p class="mb30">It will be as simple as Occidental; in fact, it will be Occidental. To an
+                            English person, it will seem like simplified English, as a skeptical Cambridge friend of
+                            mine told me what Occidental is.</p>
                         <div class="clearfix">
                             <ul class="social-icon social-bg circle">
                                 <li><a href="#"><i class="icon social_twitter"></i></a></li>
@@ -378,7 +435,9 @@
                         <div class="mb10"></div>
                         <ul class="list-2 team-member-details">
                             <li><span>Website</span> <a href="#">http://johndoe.com</a></li>
-                            <li><span>Email</span> <a href="https:///cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="402a2f282e1f242f2500232f2d30212e396e232f2d">[email&#160;protected]</a></li>
+                            <li><span>Email</span> <a href="https:///cdn-cgi/l/email-protection" class="__cf_email__"
+                                    data-cfemail="402a2f282e1f242f2500232f2d30212e396e232f2d">[email&#160;protected]</a>
+                            </li>
                             <li><span>Phone</span> 0800 555 255</li>
                             <li><span>Main Skills</span> Web Design, Coding, Photoshop</li>
                         </ul>

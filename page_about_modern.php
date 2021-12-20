@@ -13,14 +13,42 @@
             </div>
             <div class="col-sm-12 col-md-5">
                 <div class="page-breadcrumbs">
-                    <a href="#">home</a> <span class="separator"> / </span> <a href="#">pages</a> <span class="separator"> / </span> <a href="#" class="active">about us</a>
+                    <a href="#">home</a> <span class="separator"> / </span> <a href="#">pages</a> <span
+                        class="separator"> / </span> <a href="#" class="active">about us</a>
                 </div>
             </div>
         </div>
     </div>
 </section>
 <section class="section mt30">
-    <div class="container">
+    <div class="container mb20">
+        <div class="row col-p0">
+            <div class="col-sm-12">
+                <div class="box-services-4 dark">
+                    <div class="row col-p0">
+                        <div class="col-sm-8 col-sm-offset-2 text-center">
+                            <h3 class="title title-medium">
+                                Our Vision
+                            </h3>
+                            <div class="br-bottom-center mb30 mt20"></div>
+                            <p class="mb0">
+                                We aim to provide individuals with a platform to ensure the fulfillment of Sustainable
+                                Development Goals for the weaker sections of the Society through sustainable
+                                initiatives.
+                            </p>
+                        </div>
+                    </div>
+                    <i class="icon icon_lifesaver"></i>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="shadow3"></div>
+            </div>
+        </div>
+    </div>
+    <div class="container mt20">
         <div class="row col-p0">
             <div class="col-sm-12">
                 <div class="box-services-4 dark">
@@ -28,7 +56,8 @@
                         <div class="col-sm-8 col-sm-offset-2 text-center">
                             <h3 class="title title-medium">Our Mission</h3>
                             <div class="br-bottom-center mb30 mt20"></div>
-                            <p class="mb0">PRAYAS exists to motivate the individuals and provide them with resources to solve the social problems of their surroundings by channelizing the local resources.</p>
+                            <p class="mb0">PRAYAS exists to motivate the individuals and provide them with resources to
+                                solve the social problems of their surroundings by channelizing the local resources.</p>
                         </div>
                     </div>
                     <i class="icon icon_lifesaver"></i>
@@ -46,8 +75,11 @@
     <div class="container">
         <div class="row col-p30">
             <div class="col-sm-12 col-md-6 sm-box3">
-                <h3 class="title-a">What about us?</h3>
-                <p class="text-1">PRAYAS is the extension initiative of Gopali Youth Welfare Society. It was started to generate programs for youth to give back to the community using local resources. Our main objective is to improve the economic conditions of an area through generating employment and setting up businesses that give back their profits to the community.</p>
+                <h3 class="title-a">Who are we?</h3>
+                <p class="text-1">PRAYAS is the extension initiative of Gopali Youth Welfare Society. It was started to
+                    generate programs for youth to give back to the community using local resources. Our main objective
+                    is to improve the economic conditions of an area through generating employment and setting up
+                    businesses that give back their profits to the community.</p>
             </div>
             <div class="col-sm-12 col-md-6">
                 <h3 class="title-a">Our Skills</h3>
@@ -83,9 +115,16 @@
                     <div class="mb50 mt40">
                         <h3 class="title-medium">Our Motivation</h3>
                         <div class="br-bottom mb20"></div>
-                        <p class="mb50">Back in 2014, our founder Mr. Mrinal Kanti Bhanja realized that the people who achieved their dreams are not giving back to the society. He identified two reasons behind this feeble social participation of people:
-Firstly, people are under the chains of their financial insecurities. They think that doing social work will not allow them to make their living and hence they lack motivation and passion to bring a change.
-Secondly, even if some are motivated they lack a platform and proper guidance and a team of like-minded people to execute their ideas to solve social problems. Through this initiative, we want to motivate people to join us and find out ways to develop an area using the locally available resources.</p>
+                        <p class="mb50">Back in 2014, our founder Mr. Mrinal Kanti Bhanja realized that the people who
+                            achieved their dreams are not giving back to the society. He identified two reasons behind
+                            this feeble social participation of people:
+                            Firstly, people are under the chains of their financial insecurities. They think that doing
+                            social work will not allow them to make their living and hence they lack motivation and
+                            passion to bring a change.
+                            Secondly, even if some are motivated they lack a platform and proper guidance and a team of
+                            like-minded people to execute their ideas to solve social problems. Through this initiative,
+                            we want to motivate people to join us and find out ways to develop an area using the locally
+                            available resources.</p>
                     </div>
                 </div>
             </div>
@@ -95,114 +134,8 @@ Secondly, even if some are motivated they lack a platform and proper guidance an
 
 <?php require("clients.php") ?>
 
-
-<div class="container">
-    <div class="row">
-        <div class="col-sm-12">
-            <section class="section-bg p0 bg-img bg15 stellar" data-stellar-background-ratio="0.4">
-                <div class="bg-overlay"></div>
-                <div class="bg-half">
-                    <div class="row">
-                        <div class="col-sm-12">
-                            <h3 class="title-small mb20 color-on-img">Journey of enterprise with a difference.</h3>
-                            <div class="br-bottom mb30"></div>
-                            <p class="text-1 color-on-img">Our journey would not have been smooth if it was not for the support by the wholehearted participation and cooperation from the community as well as from the other partners (agencies) have helped a lot to sustain the activities. </p>
-                            <div class="mb30"></div>
-                            <ul class="list-2">
-                                <li><span>2014</span> Founded</li>
-                                <li><span>2017</span> Extend to 5 cities</li>
-                                <li><span>2020</span> Successfully running 7 projects</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </section>
-        </div>
-    </div>
-</div>
-<section class="section section-large">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12">
-                <h3 class="title-small text-center mb30">Our Team</h3>
-                <div class="br-bottom-center mb50"></div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-sm-12">
-                <div class="owl-carousel owl-columns4 visible-controls controls-2">
-                    <div class="owl-el">
-                        <div class="portfolio-el view">
-                            <img src="images/demo/team2.jpg" alt="project">
-                            <div class="mask">
-                                <div class="portfolio-middle">
-                                    <h3 class="portfolio-title"><a href="page_employee.php">DEVAKI NANDANA </a></h3>
-                                    <p class="text">CEO</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="owl-el">
-                        <div class="portfolio-el view">
-                            <img src="images/demo/team2.jpg" alt="project">
-                            <div class="mask">
-                                <div class="portfolio-middle">
-                                    <h3 class="portfolio-title"><a href="page_employee.php">PRANEETH REDDY KALAM</a></h3>
-                                    <p class="text">Coordinator</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="owl-el">
-                        <div class="portfolio-el view">
-                            <img src="images/demo/team4.jpg" alt="project">
-                            <div class="mask">
-                                <div class="portfolio-middle">
-                                    <h3 class="portfolio-title"><a href="page_employee.php">VAISHNAVI MANUSUNI</a></h3>
-                                    <p class="text">Coordinator</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="owl-el">
-                        <div class="portfolio-el view">
-                            <img src="images/demo/team4.jpg" alt="project">
-                            <div class="mask">
-                                <div class="portfolio-middle">
-                                    <h3 class="portfolio-title"><a href="page_employee.php">PRANEETH REDDY</a></h3>
-                                    <p class="text">Coordinator</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="owl-el">
-                        <div class="portfolio-el view">
-                            <img src="images/demo/team5.jpg" alt="project">
-                            <div class="mask">
-                                <div class="portfolio-middle">
-                                    <h3 class="portfolio-title"><a href="page_employee.php">RAJAVARDHINI BETHALA</a></h3>
-                                    <p class="text">Research and Innovation Head</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="owl-el">
-                        <div class="portfolio-el view">
-                            <img src="images/demo/team6.jpg" alt="project">
-                            <div class="mask">
-                                <div class="portfolio-middle">
-                                    <h3 class="portfolio-title"><a href="page_employee.php">SURYA MANIKANTA TANKALA</a></h3>
-                                    <p class="text">Design Head</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section-bg mb0 section-extra-large bg-img stellar bg52 stats-section stats-bg" data-stellar-background-ratio="0.4">
+<section class="section-bg mb0 section-extra-large bg-img stellar bg52 stats-section stats-bg"
+    data-stellar-background-ratio="0.4">
     <div class="bg-overlay gradient-1"></div>
     <div class="container">
         <div class="row mb50">
@@ -243,8 +176,120 @@ Secondly, even if some are motivated they lack a platform and proper guidance an
 </section>
 <div class="shadow3"></div>
 
+<!-- <div class="container">
+    <div class="row">
+        <div class="col-sm-12">
+            <section class="section-bg p0 bg-img bg15 stellar" data-stellar-background-ratio="0.4">
+                <div class="bg-overlay"></div>
+                <div class="bg-half">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <h3 class="title-small mb20 color-on-img">Journey of enterprise with a difference.</h3>
+                            <div class="br-bottom mb30"></div>
+                            <p class="text-1 color-on-img">Our journey would not have been smooth if it was not for the
+                                support by the wholehearted participation and cooperation from the community as well as
+                                from the other partners (agencies) have helped a lot to sustain the activities. </p>
+                            <div class="mb30"></div>
+                            <ul class="list-2">
+                                <li><span>2014</span> Founded</li>
+                                <li><span>2017</span> Extend to 5 cities</li>
+                                <li><span>2020</span> Successfully running 7 projects</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</div> -->
+<section class="section section-large">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <h3 class="title-small text-center mb30">Our Team</h3>
+                <div class="br-bottom-center mb50"></div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="owl-carousel owl-columns4 visible-controls controls-2">
+                    <div class="owl-el">
+                        <div class="portfolio-el view">
+                            <img src="images/demo/team2.jpg" alt="project">
+                            <div class="mask">
+                                <div class="portfolio-middle">
+                                    <h3 class="portfolio-title"><a href="page_employee.php">DEVAKI NANDANA </a></h3>
+                                    <p class="text">CEO</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="owl-el">
+                        <div class="portfolio-el view">
+                            <img src="images/demo/team2.jpg" alt="project">
+                            <div class="mask">
+                                <div class="portfolio-middle">
+                                    <h3 class="portfolio-title"><a href="page_employee.php">PRANEETH REDDY KALAM</a>
+                                    </h3>
+                                    <p class="text">Coordinator</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="owl-el">
+                        <div class="portfolio-el view">
+                            <img src="images/demo/team4.jpg" alt="project">
+                            <div class="mask">
+                                <div class="portfolio-middle">
+                                    <h3 class="portfolio-title"><a href="page_employee.php">VAISHNAVI MANUSUNI</a></h3>
+                                    <p class="text">Coordinator</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="owl-el">
+                        <div class="portfolio-el view">
+                            <img src="images/demo/team4.jpg" alt="project">
+                            <div class="mask">
+                                <div class="portfolio-middle">
+                                    <h3 class="portfolio-title"><a href="page_employee.php">PRANEETH REDDY</a></h3>
+                                    <p class="text">Coordinator</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="owl-el">
+                        <div class="portfolio-el view">
+                            <img src="images/demo/team5.jpg" alt="project">
+                            <div class="mask">
+                                <div class="portfolio-middle">
+                                    <h3 class="portfolio-title"><a href="page_employee.php">RAJAVARDHINI BETHALA</a>
+                                    </h3>
+                                    <p class="text">Research and Innovation Head</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="owl-el">
+                        <div class="portfolio-el view">
+                            <img src="images/demo/team6.jpg" alt="project">
+                            <div class="mask">
+                                <div class="portfolio-middle">
+                                    <h3 class="portfolio-title"><a href="page_employee.php">SURYA MANIKANTA TANKALA</a>
+                                    </h3>
+                                    <p class="text">Design Head</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
-<section class="section">
+
+<!-- <section class="section">
     <div class="container">
         <div class="row">
             <div class="col-sm-4 col-md-3 xs-box3">
@@ -261,29 +306,41 @@ Secondly, even if some are motivated they lack a platform and proper guidance an
                 <div class="tab-content p0">
                     <div id="tab-services-1" class="tab-pane fade in active">
                         <h3 class="title-small">Volunteers</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error rerum dignissimos quos harum explicabo reprehenderit ullam autem incidunt, asperiores culpa, iusto voluptatem quia necessitatibus suscipit eos porro blanditiis. Incidunt, reiciendis.</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum incidunt veniam asperiores in laboriosam doloremque iste, ea cum expedita ut.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error rerum dignissimos quos harum
+                            explicabo reprehenderit ullam autem incidunt, asperiores culpa, iusto voluptatem quia
+                            necessitatibus suscipit eos porro blanditiis. Incidunt, reiciendis.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum incidunt veniam asperiores in
+                            laboriosam doloremque iste, ea cum expedita ut.</p>
                     </div>
                     <div id="tab-services-2" class="tab-pane fade">
                         <h3 class="title-small">Rural Connect</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error rerum dignissimos quos harum explicabo reprehenderit ullam autem incidunt, asperiores culpa, iusto voluptatem quia necessitatibus suscipit eos porro blanditiis. Incidunt, reiciendis.</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse minima ipsa, labore accusamus harum distinctio.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error rerum dignissimos quos harum
+                            explicabo reprehenderit ullam autem incidunt, asperiores culpa, iusto voluptatem quia
+                            necessitatibus suscipit eos porro blanditiis. Incidunt, reiciendis.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse minima ipsa, labore accusamus
+                            harum distinctio.</p>
                     </div>
                     <div id="tab-services-3" class="tab-pane fade">
                         <h3 class="title-small">Research and Innovation</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error rerum dignissimos quos harum explicabo reprehenderit ullam autem incidunt, asperiores culpa, iusto voluptatem quia necessitatibus suscipit eos porro blanditiis. Incidunt, reiciendis.</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam dicta modi ducimus laudantium, alias eos repellat rerum numquam reiciendis labore adipisci non corporis et repudiandae nisi provident, veritatis tempore necessitatibus.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error rerum dignissimos quos harum
+                            explicabo reprehenderit ullam autem incidunt, asperiores culpa, iusto voluptatem quia
+                            necessitatibus suscipit eos porro blanditiis. Incidunt, reiciendis.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam dicta modi ducimus
+                            laudantium, alias eos repellat rerum numquam reiciendis labore adipisci non corporis et
+                            repudiandae nisi provident, veritatis tempore necessitatibus.</p>
                     </div>
                     <div id="tab-services-4" class="tab-pane fade">
                         <h3 class="title-small">Youth Motivation</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error rerum dignissimos quos harum explicabo reprehenderit ullam autem incidunt, asperiores culpa, iusto voluptatem quia necessitatibus suscipit eos porro blanditiis. Incidunt, reiciendis.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error rerum dignissimos quos harum
+                            explicabo reprehenderit ullam autem incidunt, asperiores culpa, iusto voluptatem quia
+                            necessitatibus suscipit eos porro blanditiis. Incidunt, reiciendis.</p>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis, mollitia.</p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <div class="mb50"></div>
 
 
