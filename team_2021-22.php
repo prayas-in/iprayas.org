@@ -49,6 +49,17 @@
                             <h3 class="portfolio-text-title">Mrinal K Bhanja</h3>
                             <p class="portfolio-text-p">Founder</p>
                         </div>
+                        <div class="contact-icons-container">
+                            <a href="#">
+                                <i class="fa fa-facebook-official"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fa fa-linkedin"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fa fa-envelope"></i>
+                            </a>
+                        </div>
                     </div>
                 </div>
                 <div class="grid-col a_ c_ d_">
@@ -61,6 +72,17 @@
                         <div class="portfolio-text-content">
                             <h3 class="portfolio-text-title">DEVAKI NANDANA KALAM</h3>
                             <p class="portfolio-text-p">CEO</p>
+                        </div>
+                        <div class="contact-icons-container">
+                            <a href="#">
+                                <i class="fa fa-facebook-official"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fa fa-linkedin"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fa fa-envelope"></i>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -75,6 +97,17 @@
                             <h3 class="portfolio-text-title">PRANEETH REDDY</h3>
                             <p class="portfolio-text-p">Coordinator</p>
                         </div>
+                        <div class="contact-icons-container">
+                            <a href="#">
+                                <i class="fa fa-facebook-official"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fa fa-linkedin"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fa fa-envelope"></i>
+                            </a>
+                        </div>
                     </div>
                 </div>
                 <div class="grid-col a_">
@@ -87,6 +120,17 @@
                         <div class="portfolio-text-content">
                             <h3 class="portfolio-text-title">VAISHNAVI MANUSUNI</h3>
                             <p class="portfolio-text-p">Coordinator</p>
+                        </div>
+                        <div class="contact-icons-container">
+                            <a href="#">
+                                <i class="fa fa-facebook-official"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fa fa-linkedin"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fa fa-envelope"></i>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -101,6 +145,17 @@
                             <h3 class="portfolio-text-title">RAJAVARDHINI BETHALA</h3>
                             <p class="portfolio-text-p">Research and Innovation Head</p>
                         </div>
+                        <div class="contact-icons-container">
+                            <a href="#">
+                                <i class="fa fa-facebook-official"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fa fa-linkedin"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fa fa-envelope"></i>
+                            </a>
+                        </div>
                     </div>
                 </div>
                 <div class="grid-col c_">
@@ -113,6 +168,17 @@
                         <div class="portfolio-text-content">
                             <h3 class="portfolio-text-title">SURYA MANIKANTA TANKALA</h3>
                             <p class="portfolio-text-p">Design Head</p>
+                        </div>
+                        <div class="contact-icons-container">
+                            <a href="#">
+                                <i class="fa fa-facebook-official"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fa fa-linkedin"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fa fa-envelope"></i>
+                            </a>
                         </div>
                     </div>
                 </div>

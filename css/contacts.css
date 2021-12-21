@@ -1,0 +1,17 @@
+.contact-icons-container{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+
+.contact-icons-container i {
+    font-size: 20px;
+    cursor: pointer;
+    color: #3db15a;
+    transition: color 0.1s ease;
+}
+
+.contact-icons-container i:hover {
+    color: #218d3c;
+    transition: color 0.1s ease;
+}

@@ -19,6 +19,8 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="libs/rs-plugin/css/settings.css" media="screen">
     <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/contacts.css">
+    <link rel="stylesheet" href="css/custom.css">
 
 
     <div id="wrapper" class="animsition">
@@ -76,27 +78,27 @@
                                                 </a>
                                                 <ul class="submenu">
                                                     <li>
-                                                        <a href="page_services_classic.php">
+                                                        <a href="bd.php">
                                                             Business Development
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="page_services_classic.php">
+                                                        <a href="gw.php">
                                                             Global Warming
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="page_services_classic.php">
+                                                        <a href="eas.php">
                                                             Earn a Smile
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="page_services_classic.php">
+                                                        <a href="lp.php">
                                                             Live Project
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="page_services_classic.php">
+                                                        <a href="internships.php">
                                                             Internships
                                                         </a>
                                                     </li>

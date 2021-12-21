@@ -1,0 +1,16 @@
+/*
+Projects CSS
+*/
+
+.project-footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.project-footer .project-tag {
+    background-color: #74bb85;
+    padding: 2px 10px;
+    color: #fff;
+    font-size: 12px;
+    border-radius: 5px;
+}
