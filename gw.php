@@ -9,71 +9,117 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-12">
-                <h1 class="intro-title text-left mb20">Business Development Program</h1>
+                <h1 class="intro-title text-left mb20">Global Warming</h1>
             </div>
         </div>
         <div class="row">
             <div class="col-sm-12">
                 <div class="page-breadcrumbs left">
-                    <a href="index.php">home</a> <span class="separator"> / </span> <a href="">Business Development</a>
+                    <a href="index.php">
+                        home
+                    </a>
+                    <span class="separator">
+                        /
+                    </span>
+                    <a href="">
+                        Global Warming
+                    </a>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<section class="section mt50">
+
+<section class="section-bg">
+    <div class="section-caption-md">
+        <div class="container">
+            <div class="row col-p0">
+                <div class="">
+                    <h3 class="title-medium">
+                        Aim
+                    </h3>
+                    <div class="br-bottom mb20"></div>
+                    <p class="">
+                        Its goal is to limit global warming to well below 2, preferably two 1.5 degrees Celsius,
+                        compared to two pre-industrial levels . To achieve this long term temperature goal, countries
+                        aim to reach global peaking of greenhouse gas emission as soon as possible to achieve a climate
+                        neutral world by midcentury.
+                    </p>
+                    <!-- <h3 class="title-small"><i class="fa-style5 icon_easel mr10"></i> Uncountable shortcodes</h3>
+                    <p>If several languages coalesce, the grammar of the resulting language is more simple and regular
+                        than that of the individual languages. The new common language will be more simple and regular.
+                    </p>
+                    <div class="br-bottom mt30"></div> -->
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="section">
     <div class="container">
         <div class="row col-p20">
+            <h3 class="title-medium">
+                Solutions Proposed
+            </h3>
+            <div class="br-bottom mb20"></div>
             <div class="col-sm-6 col-md-4 xs-box3">
                 <div class="box-services-6">
-                    <img src="images/demo/client01.png" class="br2" alt="Image Service">
-                    <h3 class="title-uppercased br-bottom">EkaLavya</h3>
-                    <p>EkaLavya aims to make quality digital education affordable, and helps the students in fulfilling
-                        their potential in learning.</p>
+                    <!-- <img src="images/demo/client01.png" class="br2" alt="Image Service"> -->
+                    <h3 class="title-uppercased br-bottom">
+                        Plantation
+                    </h3>
+                    <p>
+                        several languages coalesce, the grammar of the resulting language is more simple and regular
+                        than that of the
+                    </p>
                     <div class="project-footer">
-                        <a href="http://www.ekalavya.io/" target="_blank" class="read-more">read more <i
+                        <a href="#" target="_blank" class="read-more">read more <i
                                 class="icon arrow_carrot-2right"></i></a>
-                        <span class="project-tag">
-                            Type - A
-                        </span>
                     </div>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4 xs-box3">
                 <div class="box-services-6">
-                    <img src="images/demo/client02.png" class="br2" alt="Image Service">
-                    <h3 class="title-uppercased br-bottom">Collar-Code</h3>
-                    <p>Collar-Code helps customers to get connected with reliable home service professionals like
-                        electricians, car drivers, car cleaners, washers, servicing, home repairers, etc
+                    <!-- <img src="images/demo/client02.png" class="br2" alt="Image Service"> -->
+                    <h3 class="title-uppercased br-bottom">
+                        Rain Water Harvesting
+                    </h3>
+                    <p>
+                        several languages coalesce, the grammar of the resulting language is more simple and regular
+                        than that of the
                     </p>
                     <div class="project-footer">
-                        <a href="http://www.collar-code.com" target="_blank" class="read-more">read more <i
+                        <a href="#" target="_blank" class="read-more">read more <i
                                 class="icon arrow_carrot-2right"></i></a>
-                        <span class="project-tag">
+                        <!-- <span class="project-tag">
                             Type - A
-                        </span>
+                        </span> -->
                     </div>
                 </div>
             </div>
             <div class="hidden-sm col-md-4">
                 <div class="box-services-6">
-                    <img src="images/demo/client04.png" class="br2" alt="Image Service">
-                    <h3 class="title-uppercased br-bottom">Komcluez</h3>
-                    <p>Komcluez is the best and affordable software for businesses to handdle all their financials at
-                        one place. Kom Cluez has personalized softwares for every type of business in the market.</p>
+                    <!-- <img src="images/demo/client04.png" class="br2" alt="Image Service"> -->
+                    <h3 class="title-uppercased br-bottom">
+                        Renewable Energy
+                    </h3>
+                    <p>
+                        Komcluez is the best and affordable software for businesses to handdle all their financials at
+                        one place. Kom Cluez has personalized softwares for every type of business in the market.
+                    </p>
                     <div class="project-footer">
-                        <a href="http://www.komcluez.com" target="_blank" class="read-more">read more <i
+                        <a href="#" target="_blank" class="read-more">read more <i
                                 class="icon arrow_carrot-2right"></i></a>
-                        <span class="project-tag">
+                        <!-- <span class="project-tag">
                             Type - B
-                        </span>
+                        </span> -->
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<section class="section-bg">
+<!-- <section class="section-bg">
     <div class="row col-p0">
         <div class="col-sm-12 col-md-6 sm-box3">
             <div class="section-boxed pt0 pb0">
@@ -82,26 +128,8 @@
             </div>
         </div>
     </div>
-    <div class="section-caption-sm">
-        <div class="container">
-            <div class="row col-p0">
-                <div class="col-md-5 col-md-offset-7">
-                    <h3 class="title-medium">Watch the presentation</h3>
-                    <div class="br-bottom mb20"></div>
-                    <p class="mb50">The European languages are members of the same family. Their separate existence is a
-                        myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ
-                        in their grammar, their pronunciation and their most common words.</p>
-                    <h3 class="title-small"><i class="fa-style5 icon_easel mr10"></i> Uncountable shortcodes</h3>
-                    <p>If several languages coalesce, the grammar of the resulting language is more simple and regular
-                        than that of the individual languages. The new common language will be more simple and regular.
-                    </p>
-                    <div class="br-bottom mt30"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section">
+</section> -->
+<!-- <section class="section">
     <div class="container">
         <div class="row">
             <div class="col-sm-12 col-md-6 sm-box">
@@ -228,16 +256,20 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <section class="section mt20 mb50">
     <div class="container">
         <div class="row">
             <div class="col-sm-12 col-md-5 sm-box3">
                 <div class="mt50"></div>
-                <h3 class="title-uppercased">Want a boot start for your startup?</h3>
+                <h3 class="title-uppercased">
+                    Want to contribute?
+                </h3>
                 <div class="br-bottom mb30"></div>
-                <p>To know more, feel free to reach out to us. We are looking forward to hearing from you. It's never
-                    too late to start a business and create an impact. We are always with you!</p>
+                <p>
+                    Feel free to reach out to us. We are looking forward to hearing from you. It's never
+                    too late to contribute to the environment and create an impact. We are always with you!
+                </p>
                 <div class="mb40"></div>
                 <a href="page_contact_no_captcha.php" class="btn-bg btn-3d btn-subtext">
                     <span>Contact us</span>
@@ -248,18 +280,33 @@
                 <div class="section-dark section-boxed br4">
                     <div class="row">
                         <div class="col-sm-12">
-                            <h3 class="title-uppercased color-on-dark br-left mb30">Responsive Design</h3>
-                            <p class="color-on-dark">It will be as simple as Occidental; in fact, it will be Occidental.
-                                To an English person, it will seem like simplified English, as a skeptical Cambridge
-                                friend of mine told me what Occidental is. The European languages are members of the
-                                same family.</p>
-                            <div class="mb30"></div>
-                            <p class="color-on-dark"><i class="icon icon_cart_alt color-main mr20"></i> E-Commerce
-                                Templates</p>
-                            <p class="color-on-dark"><i class="icon icon_house color-main mr20"></i> One Page Version
+                            <h3 class="title-uppercased color-on-dark br-left mb30">
+                                Ways To Support
+                            </h3>
+                            <p class="color-on-dark">
+                                You can support us in any way you want. Ways to support our work include the following but are not limited to.
                             </p>
-                            <p class="color-on-dark mb0"><i class="icon icon_image color-main mr20"></i> Uncountable
-                                Portfolio Templates</p>
+                            <div class="mb30"></div>
+                            <p class="color-on-dark">
+                                <i class="icon icon_cart_alt color-main mr20"></i>
+                                Providing Human Resources
+                            </p>
+                            <p class="color-on-dark">
+                                <i class="icon icon_house color-main mr20"></i> 
+                                Connecting with your network
+                            </p>
+                            <p class="color-on-dark">
+                                <i class="icon icon_house color-main mr20"></i> 
+                                Financial Support
+                            </p>
+                            <p class="color-on-dark">
+                                <i class="icon icon_image color-main mr20"></i>
+                                Intellectual Support
+                            </p>
+                            <p class="color-on-dark mb0">
+                                <i class="icon icon_image color-main mr20"></i>
+                                Sharing the good work we do
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -284,7 +331,7 @@
     <a href="page_contact_no_captcha.php" class="btn-bottom">Fix an appointement</a>
 </section>
 <div class="shadow3"></div>
-<div class="mb50"></div>
+<!-- <div class="mb50"></div>
 <section class="section">
     <div class="container">
         <div class="row col-p30">
@@ -327,9 +374,8 @@
         </div>
     </div>
 </section>
-<div class="mb50"></div>
+<div class="mb50"></div> -->
 
-<?php require("clients.php") ?>
 
 <?php require("footer.php") ?>
 
